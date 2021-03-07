@@ -1,0 +1,4 @@
+This is a really small python project i did.
+It is a dice rolling simulator. When program is started it rolls a dice. 
+After that program asks user if he wants to roll again. If user wants the program will roll it, if user doesn't want program will stop.
+I codded this in pathon 3.8.5.
